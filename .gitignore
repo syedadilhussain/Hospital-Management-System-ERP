@@ -1,0 +1,88 @@
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.obj
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+out/
+
+# Database files
+*.db
+*.sqlite
+*.sql
+*.bak
+*.ldf
+*.mdf
+
+# Logs
+*.log
+logs/
+
+# Environment and configuration files
+*.env
+*.config
+*.ini
+appsettings.json
+appsettings.Development.json
+
+# IDE-specific files and folders
+# Visual Studio
+.vscode/
+.vs/
+*.csproj.user
+*.suo
+*.ncrunch*
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / IntelliJ IDEA
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Framework-specific files
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.deps.json
+*.runtimeconfig.json
+
+# Node.js (if included in the project)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if scripting is used)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Additional directories/files (specific to the hospital ERP)
+exported_reports/
+cached_files/
+session_data/
+uploads/
