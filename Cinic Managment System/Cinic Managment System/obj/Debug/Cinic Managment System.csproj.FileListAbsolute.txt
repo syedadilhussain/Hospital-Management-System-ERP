@@ -8,3 +8,13 @@ E:\ERP-POS\Cinic Managment System\Cinic Managment System\Cinic Managment System\
 E:\ERP-POS\Cinic Managment System\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.CoreCompileInputs.cache
 E:\ERP-POS\Cinic Managment System\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.exe
 E:\ERP-POS\Cinic Managment System\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.pdb
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Cinic Managment System.exe.config
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Cinic Managment System.exe
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Cinic Managment System.pdb
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.AssemblyReference.cache
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Form1.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Properties.Resources.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.GenerateResource.cache
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.CoreCompileInputs.cache
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.exe
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.pdb
