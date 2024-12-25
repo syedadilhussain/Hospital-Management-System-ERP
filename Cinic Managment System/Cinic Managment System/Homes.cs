@@ -16,5 +16,15 @@ namespace Cinic_Managment_System
         {
             InitializeComponent();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Homes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -79,5 +79,15 @@ namespace Cinic_Managment_System.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap quarantined_hospital_corridor_fo {
+            get {
+                object obj = ResourceManager.GetObject("quarantined-hospital-corridor-fo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
