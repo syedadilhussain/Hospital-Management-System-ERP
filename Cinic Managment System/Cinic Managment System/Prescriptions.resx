@@ -117,37 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="bunifuElipse2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>307, 58</value>
-  </metadata>
-  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>162, 58</value>
-  </metadata>
   <metadata name="bunifuElipse3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 58</value>
-  </metadata>
-  <metadata name="bunifuElipse6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>1177, 17</value>
-  </metadata>
-  <metadata name="bunifuElipse5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>1032, 17</value>
-  </metadata>
-  <metadata name="bunifuElipse4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>887, 17</value>
+    <value>162, 99</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="bunifuThinButton23.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="bunifuThinButton21.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAK8AAAArCAYAAAAOs9i7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHtSURBVHhe7ZwxS0JRGIYdDIwkQ2xxENwbHJuCJqFN6G8E
-        QT+gwX/h4ujY2NjYT3BsdHRsfOPVm+Y52ZaeD54HnsV7s+Xhcs+p79QEEJRa+gFAFIgXwkK8EBbihbAQ
-        L4Tlz3g/P6XZTLq7kwYDqdORajXE/9ONubXbW2k6lZbLtMote+N9fZXaben8PP8FiIew2ZQuLqTJJK1z
-        TRavSx+N1j+UfhniMWy1pOtrabHYbXUnXofb60knJ/kXIB5bt/nxsSdeP3EJF0vW78NZvH7H5VUBS/fs
-        THp+/hGvdxW8OEtvRCxRtzqfV/F6S8Iru/QmxBKt16XHxype76mlNyCWbL9fxdvt5hcRS9ZP31W8p6f5
-        RcTiXa3a0g8RI0i8GFbixbASL4aVeDGsxIthJV4MK/FiWIkXw0q8GFbHu/o7cXoBsXQdL1PBGFLH6+G2
-        7AJiwa7+E9LxjsdSo5HfgFiq9/dVvJ7IZH4No+hR+JeXKl7z9MQoEJavp9uHw3Wzm3g9hHl1ld+MWJKX
-        l9sjoDbxGk9ksvOApeqp4be3ba878Zr39/XJJCzgsBT9quAn7s9wTRav8SvEwwOLODy+Pujx5ub30yJ/
-        jfcbl+4tCU6KxEProWAfresjdvfxZ7wAJUO8EBbihbAQL4SFeCEsXwHVma9Pttl5AAAAAElFTkSuQmCC
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHrSURBVHhe7ZwxS0JRGIYdDIwkI2pxCNobGp2EpqAt8G8I
+        gT/AwX/R4tjo6NjYT3BsdHRsfOPt3kzvubql54PngWfpnGx5kHMvfachgKA0qj8AiALxQliIF8JCvBAW
+        4oWw7I/360t6e5OenqT7e+nqSmo0EP9PN+bWHh6k6VRarapVrtkd73wuXV5K5+fpH0A8hO22dHEhvb5W
+        6/whjdelPz8Xv1T9MMRj2OlIvZ60XG6luh2vw725kU5O0g9APLZu8/NzR7z+xiVczFmfh5N4fcblqIC5
+        e3Ymjccb8fqtgh/OqhsRc9StLhZlvH4l4Se76ibEHG02pZeXMl6/U6tuQMzZ29sy3m43XUTM2WazjPf0
+        NF1EzNwi3poFxNwlXgwr8WJYiRfDSrwYVuLFsBIvhpV4MazEi2ElXgxrEa//S6dmETFni3iZCsaAFvF6
+        uK1mETFbu90y3slEarXSDYi5OhiU8Xoik/k1jKJH4WezMl4zGjEKhPnr6fbHx59k/+L1EObdXboZMSev
+        r9dXQP3FaxYL3jxgvnpq+P19net2vObjo7iZhAc4zEUfFfyNuxGuSeM1PkIMhzzE4fH1RY/9fu1tkfXx
+        /uLSBwNuisTD66FgX63rK3Z3sD9egIwhXggL8UJYiBfCQrwQlm+NX5mvwa9mPwAAAABJRU5ErkJggg==
 </value>
   </data>
   <data name="bunifuThinButton22.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -166,21 +151,22 @@
         BYgZ4gWzEC+YhXjBLMQLZvkD3WgWanfi0lYAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="bunifuThinButton21.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAK8AAAArCAYAAAAOs9i7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHrSURBVHhe7ZwxS0JRGIYdDIwkI2pxCNobGp2EpqAt8G8I
-        gT/AwX/R4tjo6NjYT3BsdHRsfOPt3kzvubql54PngWfpnGx5kHMvfachgKA0qj8AiALxQliIF8JCvBAW
-        4oWw7I/360t6e5OenqT7e+nqSmo0EP9PN+bWHh6k6VRarapVrtkd73wuXV5K5+fpH0A8hO22dHEhvb5W
-        6/whjdelPz8Xv1T9MMRj2OlIvZ60XG6luh2vw725kU5O0g9APLZu8/NzR7z+xiVczFmfh5N4fcblqIC5
-        e3Ymjccb8fqtgh/OqhsRc9StLhZlvH4l4Se76ibEHG02pZeXMl6/U6tuQMzZ29sy3m43XUTM2WazjPf0
-        NF1EzNwi3poFxNwlXgwr8WJYiRfDSrwYVuLFsBIvhpV4MazEi2ElXgxrEa//S6dmETFni3iZCsaAFvF6
-        uK1mETFbu90y3slEarXSDYi5OhiU8Xoik/k1jKJH4WezMl4zGjEKhPnr6fbHx59k/+L1EObdXboZMSev
-        r9dXQP3FaxYL3jxgvnpq+P19net2vObjo7iZhAc4zEUfFfyNuxGuSeM1PkIMhzzE4fH1RY/9fu1tkfXx
-        /uLSBwNuisTD66FgX63rK3Z3sD9egIwhXggL8UJYiBfCQrwQlm+NX5mvwa9mPwAAAABJRU5ErkJggg==
-</value>
-  </data>
+  <metadata name="bunifuElipse2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>307, 99</value>
+  </metadata>
   <metadata name="bunifuElipse7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>460, 48</value>
+    <value>452, 99</value>
+  </metadata>
+  <metadata name="bunifuElipse6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>597, 99</value>
+  </metadata>
+  <metadata name="bunifuElipse5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>742, 99</value>
+  </metadata>
+  <metadata name="bunifuElipse4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>887, 99</value>
+  </metadata>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1032, 99</value>
   </metadata>
 </root>
