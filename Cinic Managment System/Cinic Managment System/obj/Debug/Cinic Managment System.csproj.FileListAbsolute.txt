@@ -12,9 +12,47 @@ C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment Syste
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Cinic Managment System.exe
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Cinic Managment System.pdb
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.AssemblyReference.cache
-C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Form1.resources
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Properties.Resources.resources
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.GenerateResource.cache
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.csproj.CoreCompileInputs.cache
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.exe
 C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Managment System.pdb
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Bunifu.Utils.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\RestSharp.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Buffers.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.CodeDom.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Memory.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\RestSharp.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Buffers.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.CodeDom.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Memory.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Doctors.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Homes.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Laboratory.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Login.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Patients.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Prescriptions.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic_Managment_System.Receptionists.resources
+C:\Users\faiza\Source\Repos\Hospital-Management-System-ERP\Cinic Managment System\Cinic Managment System\obj\Debug\Cinic Ma.DE7B9C9D.Up2Date
