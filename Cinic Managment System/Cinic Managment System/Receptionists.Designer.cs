@@ -31,6 +31,7 @@ namespace Cinic_Managment_System
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Receptionists));
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.label14 = new System.Windows.Forms.Label();
@@ -41,7 +42,6 @@ namespace Cinic_Managment_System
             this.RPassword = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
-            this.bunifuElipse7 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.ReceptionistDGV = new System.Windows.Forms.DataGridView();
             this.label10 = new System.Windows.Forms.Label();
             this.bunifuElipse4 = new Bunifu.Framework.UI.BunifuElipse(this.components);
@@ -154,14 +154,12 @@ namespace Cinic_Managment_System
             this.label11.TabIndex = 11;
             this.label11.Text = "Doctors";
             // 
-            // bunifuElipse7
-            // 
-            this.bunifuElipse7.ElipseRadius = 30;
-            this.bunifuElipse7.TargetControl = this.ReceptionistDGV;
-            // 
             // ReceptionistDGV
             // 
-            this.ReceptionistDGV.BackgroundColor = System.Drawing.SystemColors.WindowFrame;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ReceptionistDGV.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle2;
+            this.ReceptionistDGV.BackgroundColor = System.Drawing.Color.White;
             this.ReceptionistDGV.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.ReceptionistDGV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.ReceptionistDGV.Location = new System.Drawing.Point(309, 315);
@@ -170,6 +168,7 @@ namespace Cinic_Managment_System
             this.ReceptionistDGV.RowTemplate.Height = 24;
             this.ReceptionistDGV.Size = new System.Drawing.Size(1082, 473);
             this.ReceptionistDGV.TabIndex = 65;
+            this.ReceptionistDGV.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.ReceptionistDGV_CellContentClick);
             // 
             // label10
             // 
@@ -344,6 +343,7 @@ namespace Cinic_Managment_System
             this.EditBtn.Size = new System.Drawing.Size(175, 43);
             this.EditBtn.TabIndex = 62;
             this.EditBtn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.EditBtn.Click += new System.EventHandler(this.EditBtn_Click);
             // 
             // AddBtn
             // 
@@ -380,6 +380,7 @@ namespace Cinic_Managment_System
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 49;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // DelBtn
             // 
@@ -415,6 +416,7 @@ namespace Cinic_Managment_System
             this.RAddressTB.Name = "RAddressTB";
             this.RAddressTB.Size = new System.Drawing.Size(924, 67);
             this.RAddressTB.TabIndex = 67;
+            this.RAddressTB.TextChanged += new System.EventHandler(this.RAddressTB_TextChanged);
             // 
             // label3
             // 
@@ -509,7 +511,6 @@ namespace Cinic_Managment_System
         private System.Windows.Forms.Label label1;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse3;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse2;
-        private Bunifu.Framework.UI.BunifuElipse bunifuElipse7;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse4;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse6;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse5;
