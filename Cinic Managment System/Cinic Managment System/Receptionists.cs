@@ -17,8 +17,7 @@ namespace Cinic_Managment_System
         {
             InitializeComponent();
         }
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\faiza\OneDrive\Documents\Hospital.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True");
-
+        SqlConnection Con = new SqlConnection(@"Data Source=FAIZAN\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=True;TrustServerCertificate=True");
         private void DelBtn_Click(object sender, EventArgs e)
         {
 
@@ -26,7 +25,7 @@ namespace Cinic_Managment_System
 
         private void AddBtn_Click(object sender, EventArgs e)
         {
-            if(RNameTB.Text == "" || RPassword.Text == "" || RAddressTB.Text == "")
+            if(RNameTB.Text == "" || RPhoneTB.Text == "" || RAddressTB.Text == "" || RPassword.Text == "")
             {
                 MessageBox.Show("Missing Information");
             }
@@ -35,7 +34,7 @@ namespace Cinic_Managment_System
                 try
                 {
                     Con.Open();
-                    SqlCommand cmd = new SqlCommand("insert into ReceptionistTB(RecepName,RecepPhone,RecepAddress,RecepPass)values(@RN,@RP,@RA,@RPA)", Con);
+                    SqlCommand cmd = new SqlCommand("INSERT INTO ReceptionistTB (RecepName, RecepPhone, RecepAddress, RecepPass) VALUES (@RN, @RP, @RA, @RPA)", Con);
                     cmd.Parameters.AddWithValue("@RN", RNameTB.Text);
                     cmd.Parameters.AddWithValue("@RP", RPhoneTB.Text);
                     cmd.Parameters.AddWithValue("@RA", RAddressTB.Text);
@@ -48,7 +47,19 @@ namespace Cinic_Managment_System
                 {
                     MessageBox.Show(Ex.Message);
                 }
+                finally
+                {
+                    if (Con.State == ConnectionState.Open)
+                    {
+                        Con.Close();
+                    }
+                }
             }
+        }
+
+        private void RNameTB_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -434,6 +434,7 @@ namespace Cinic_Managment_System
             this.RNameTB.Name = "RNameTB";
             this.RNameTB.Size = new System.Drawing.Size(279, 27);
             this.RNameTB.TabIndex = 68;
+            this.RNameTB.TextChanged += new System.EventHandler(this.RNameTB_TextChanged);
             // 
             // Receptionists
             // 
